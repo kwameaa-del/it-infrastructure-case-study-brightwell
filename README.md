@@ -1,3 +1,4 @@
+## Files
 # IT Infrastructure Case Study – Brightwell Design Studio
 
 ## Overview
