@@ -48,5 +48,3 @@ Current environment:
 - IT infrastructure directly impacts productivity in content-driven environments
 - Poor system design leads to predictable performance and security issues
 - Structured improvements can significantly increase efficiency and reliability
-
-# IT Infrastructure Case Study – Brightwell Design Studio
