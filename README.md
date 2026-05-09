@@ -1,9 +1,14 @@
-# IT Infrastructure Case Study – Brightwell Design Studio
+## Files
+- ./IT_Infrastructure_Improvement_Proposal.pdf
 
 ## Overview
+
 This project is an IT infrastructure case study focused on analyzing and improving a small business environment.
 
 The goal was to identify system performance issues, network inefficiencies, and security risks, then propose practical, cost-effective solutions.
+
+This work emphasizes systems-level thinking and infrastructure design in a real-world scenario.
+
 
 ---
 
@@ -41,8 +46,3 @@ Current environment:
 - IT infrastructure directly impacts productivity in content-driven environments
 - Poor system design leads to predictable performance and security issues
 - Structured improvements can significantly increase efficiency and reliability
-
----
-
-## Files
-- IT Infrastructure Improvement Proposal (PowerPoint)
