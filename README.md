@@ -1,5 +1,5 @@
 ## Files
-- ./IT_Infrastructure_Improvement_Proposal.pdf
+IT_Infrastructure_Improvement_Proposal.pdf
 
 ## Overview
 
