@@ -1,6 +1,5 @@
-## Files
-IT_Infrastructure_Improvement_Proposal.pdf
-
+# IT Infrastructure Case Study – Brightwell Design Studio
+``
 ## Overview
 
 This project is an IT infrastructure case study focused on analyzing and improving a small business environment.
