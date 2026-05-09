@@ -1,4 +1,6 @@
 ## Files
+- IT_Infrastructure_Improvement_Proposal.pdf
+
 # IT Infrastructure Case Study – Brightwell Design Studio
 
 ## Overview
